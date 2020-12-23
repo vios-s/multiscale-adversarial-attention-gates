@@ -5,7 +5,7 @@ title: Data
 
 ## Download
 
-You can download the scribble annotations at [this link](https://github.com/gvalvano/multiscale-adversarial-attention-gates/raw/master/DATA/acdc_scribbles.zip).
+You can download the scribble annotations at [this link](https://github.com/vios-s/multiscale-adversarial-attention-gates/raw/main/DATA/acdc_scribbles.zip).
 File names are the same as in the ACDC dataset. For example, for patient 12 we have the files `patient012_frame_ED_scribble.nii.gz` and `patient012_frame_ES_scribble.nii.gz` for the end-diastolic and end-systolic cardiac phases. 
 
 If you use this data, you should cite our paper as:
