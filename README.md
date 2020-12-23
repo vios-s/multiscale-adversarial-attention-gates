@@ -6,7 +6,7 @@ Project page of the paper:
 
 # Resources:
 
-- [**project page**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/)
+- [**project page**](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
 
 - [**paper**](https://arxiv.org/abs/2007.01152)
 
