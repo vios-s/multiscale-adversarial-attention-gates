@@ -6,7 +6,7 @@ title: Home
 
 ## Abstract
 
-[comment]: <> (<img align="right" src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/method.pdf" width=100>)
+[comment]: <> (<img align="right" src="https://github.com/vios-s/multiscale-adversarial-attention-gates/blob/master/method.pdf" width=100>)
 
 Large, fine-grained image segmentation datasets, annotated at pixel-level, are difficult to obtain, 
 particularly in medical imaging, where annotations also require expert knowledge. 
