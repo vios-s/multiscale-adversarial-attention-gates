@@ -1,7 +1,7 @@
 ---
 title: Data
 ---
-&larr; [Homepage](https://vios-s/multiscale-adversarial-attention-gates)
+&larr; [Homepage](https://vios-s.github.io/multiscale-adversarial-attention-gates)
 
 ## Download
 
