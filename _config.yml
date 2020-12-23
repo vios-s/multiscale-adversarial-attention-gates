@@ -8,7 +8,7 @@ button_paper_url: https://arxiv.org/abs/2007.01152
 button_code_url: https://github.com/gvalvano/multiscale-adversarial-attention-gates
 button_data_url: data
 button_contacts_url: contacts
-banner: https://github.com/vios-s/multiscale-adversarial-attention-gates/blob/master/images/banner.pdf
+banner: https://github.com/vios-s/multiscale-adversarial-attention-gates/blob/main/images/banner.pdf
 plugins:
   - jemoji
 image_url_prefix: images
