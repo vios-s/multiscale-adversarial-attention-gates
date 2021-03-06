@@ -1,8 +1,8 @@
-# Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates
+# Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates
 
 Project page of the paper: 
 
-"Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates", by Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris (2020) ArXiv 2007.01152.
+"Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates", by Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris (2021) ArXiv 2007.01152.
 
 # Resources:
 
@@ -15,10 +15,10 @@ Project page of the paper:
 # Cite:
 
 ```
-@article{valvano2020weakly,
-  title={Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates},
+@article{valvano2021learning,
+  title={Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates},
   author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
   journal={arXiv preprint arXiv:2007.01152},
-  year={2020}
+  year={2021}
 }
 ```
