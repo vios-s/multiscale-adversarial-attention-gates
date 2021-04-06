@@ -2,7 +2,7 @@
 
 Project page of the paper: 
 
-> Valvano G., Leo A. and Tsaftaris S. A. (2021), *Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates*, recently accepted at: IEEE Transaction on Medical Imaging.
+> Valvano, Gabriele, Andrea Leo, and Sotirios A. Tsaftaris. "Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates." IEEE Transactions on Medical Imaging (2021).
 
 # Resources:
 
@@ -18,7 +18,8 @@ Project page of the paper:
 @article{valvano2021learning,
   title={Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates},
   author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
-  journal={IEEE Transaction on Medical Imaging},
-  year={2021}
+  journal={IEEE Transactions on Medical Imaging},
+  year={2021},
+  publisher={IEEE}
 }
 ```
