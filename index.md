@@ -34,8 +34,9 @@ scribble annotations for the ACDC dataset, and the code used for the experiments
 @article{valvano2021learning,
   title={Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates},
   author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
-  journal={arXiv preprint arXiv:2007.01152},
-  year={2021}
+  journal={IEEE Transactions on Medical Imaging},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
