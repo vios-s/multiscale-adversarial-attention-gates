@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Weakly Supervised Segmentation with <br>Multi-scale Adversarial Attention Gates
+title: Learning to Segment from Scribbles using<br>Multi-scale Adversarial Attention Gates
 description: Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris
 google_analytics: UA-169250566-1
 show_downloads: true
