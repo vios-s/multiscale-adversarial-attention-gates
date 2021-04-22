@@ -23,5 +23,6 @@ Project page of the paper:
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TMI.2021.3069634}}
+  doi={10.1109/TMI.2021.3069634}
+}
 ```
