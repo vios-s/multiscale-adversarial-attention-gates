@@ -10,12 +10,15 @@ File names are the same as in the ACDC dataset. For example, for patient 12 we h
 
 If you use this data, you should cite our paper as:
 ```
-@article{valvano2021learning,
-  title={Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates},
-  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
-  journal={IEEE Transactions on Medical Imaging},
+@ARTICLE{9389796,
+  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A.},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates}, 
   year={2021},
-  publisher={IEEE}
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2021.3069634}
 }
 ```
 
